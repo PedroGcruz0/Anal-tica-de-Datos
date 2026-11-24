@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+SQLAlchemy>=2.0
+matplotlib>=3.7
+psycopg2-binary      # controlador de PostgreSQL. Si no instala en tu versión de Python: pip install "psycopg[binary]" y define PG_DRIVER=psycopg
